@@ -1,21 +1,21 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=e63946,8b0000,0d1117&height=150&section=header&text=Diogo%20Lopes&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%E2%80%A2%20FiveM%20Systems%20%E2%80%A2%20WebGL&descAlignY=65&descSize=16" width="100%" alt="Diogo Lopes Banner" />
+  <!-- Header Banner (Strictly #FF0000 to #000000 gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=140&section=header&text=Diogo%20Lopes&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20FiveM%20Systems%20%7C%20WebGL&descAlignY=65&descSize=16" width="100%" alt="Diogo Lopes Banner" />
 
-  <!-- Animated Typing Subtitle -->
+  <!-- Animated Typing Subtitle (#FF0000) -->
   <a href="https://github.com/Ruivo82">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=E63946&center=true&vCenter=true&width=550&lines=Fullstack+Developer+%26+FiveM+Engineer;WebGL+%26+Interactive+3D+Systems;Founder+%40+RV+Studios;Core+Dev+%40+Nova+Esperan%C3%A7a" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=Fullstack+Developer+%7C+FiveM+Engineer;WebGL+%26+Interactive+3D+Systems;Founder+%40+RV+Studios;Core+Dev+%40+Nova+Esperan%C3%A7a" alt="Typing SVG" />
   </a>
 
-  <!-- Quick Badges -->
+  <!-- Badges (Strictly #FF0000 & #0D1117) -->
   <p>
     <a href="https://rv-studios.tebex.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Store-rv--studios.tebex.io-e63946?style=flat-square&logo=shopify&logoColor=white" alt="RV Studios Store" />
+      <img src="https://img.shields.io/badge/Store-rv--studios.tebex.io-FF0000?style=flat-square&logo=shopify&logoColor=white" alt="RV Studios Store" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Portugal_🇵🇹-1e293b?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Portugal-0D1117?style=flat-square" alt="Location" />
     <a href="https://github.com/Ruivo82?tab=repositories">
-      <img src="https://img.shields.io/badge/Projects-FiveM_%26_Web-1e293b?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+      <img src="https://img.shields.io/badge/Projects-FiveM_%26_Web-0D1117?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
     </a>
   </p>
 
@@ -27,20 +27,20 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ About Me</h3>
+      <h3>About Me</h3>
       <p>
-        Software developer based in <b>Portugal 🇵🇹</b>, focused on <b>FiveM system architecture</b>, low-latency scripting, and interactive <b>WebGL / 3D web applications</b>.
+        Software developer based in <b>Portugal</b>, specializing in <b>FiveM system architecture</b>, low-latency scripting, and interactive <b>WebGL / 3D web applications</b>.
       </p>
       <ul>
-        <li>🕹️ <b>Systems:</b> Low-latency FiveM scripting & NUI engineering</li>
-        <li>🌐 <b>Web & 3D:</b> Interactive WebGL platforms with React & Three.js</li>
-        <li>🛒 <b>Venture:</b> Founder & lead developer at <a href="https://rv-studios.tebex.io/" target="_blank"><b>RV Studios</b></a></li>
-        <li>🚀 <b>Flagship:</b> Core engineer on <a href="#-featured-projects"><b>Nova Esperança</b></a></li>
-        <li>🛡️ <b>Focus:</b> Memory leak mitigation, event deduplication & scalability</li>
+        <li><b>Systems:</b> Low-latency FiveM scripting and NUI engineering</li>
+        <li><b>Web & 3D:</b> Interactive WebGL platforms with React and Three.js</li>
+        <li><b>Store:</b> Founder and lead developer at <a href="https://rv-studios.tebex.io/" target="_blank"><b>RV Studios</b></a></li>
+        <li><b>Project:</b> Core engineer on <a href="#featured-projects"><b>Nova Esperança</b></a></li>
+        <li><b>Architecture:</b> Memory leak mitigation, event deduplication, and scalability</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
+      <h3>Tech Stack</h3>
       <p>
         <b>Languages</b><br />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -59,7 +59,7 @@
       <p>
         <b>Backend & Systems</b><br />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/FiveM-E63946?style=flat-square&logo=gta&logoColor=white" alt="FiveM" />
+        <img src="https://img.shields.io/badge/FiveM-FF0000?style=flat-square&logo=gta&logoColor=white" alt="FiveM" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       </p>
@@ -70,27 +70,27 @@
 ---
 
 <!-- Projects Showcase Side-by-Side -->
-<h3 align="center" id="-featured-projects">🚀 Featured Projects</h3>
+<h3 align="center" id="featured-projects">Featured Projects</h3>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h4>🛒 RV Studios — Store</h4>
-      <p><sub>Premium FiveM scripts, custom frameworks & gameplay assets</sub></p>
+      <h4>RV Studios — Store</h4>
+      <p><sub>Premium FiveM scripts, custom frameworks, and gameplay assets</sub></p>
       <a href="https://rv-studios.tebex.io/" target="_blank">
         <img src="foto4.png" width="95%" style="border-radius: 8px;" alt="RV Studios Banner" />
       </a>
       <br /><br />
       <a href="https://rv-studios.tebex.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit_Store-rv--studios.tebex.io-e63946?style=flat-square&logo=shopify&logoColor=white" alt="Store Link" />
+        <img src="https://img.shields.io/badge/Visit_Store-rv--studios.tebex.io-FF0000?style=flat-square&logo=shopify&logoColor=white" alt="Store Link" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>🌆 Nova Esperança</h4>
+      <h4>Nova Esperança</h4>
       <p><sub>Next-generation immersive FiveM roleplay experience</sub></p>
       <img src="foto5.png" width="95%" style="border-radius: 8px;" alt="Nova Esperança Banner" />
       <br /><br />
-      <img src="https://img.shields.io/badge/Status-In_Active_Development-e63946?style=flat-square" alt="Status" />
+      <img src="https://img.shields.io/badge/Status-In_Development-FF0000?style=flat-square" alt="Status" />
     </td>
   </tr>
 </table>
@@ -98,7 +98,7 @@
 ---
 
 <!-- Key Repositories -->
-<h3 align="center">📦 Key Repositories</h3>
+<h3 align="center">Key Repositories</h3>
 
 <table width="100%">
   <thead>
@@ -111,7 +111,7 @@
   <tbody>
     <tr>
       <td><b><a href="https://github.com/Ruivo82/FiveM-Event-Fix">FiveM-Event-Fix</a></b></td>
-      <td>Server-side EventEmitter leak mitigator & listener deduplicator for FiveM resources</td>
+      <td>Server-side EventEmitter leak mitigator and listener deduplicator for FiveM resources</td>
       <td align="center"><code>JavaScript</code> <code>FiveM</code></td>
     </tr>
     <tr>
@@ -121,7 +121,7 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/Ruivo82/ne_animgear">ne_animgear</a></b></td>
-      <td>Animation & gear synchronization system for FiveM</td>
+      <td>Animation and gear synchronization system for FiveM</td>
       <td align="center"><code>Lua</code> <code>FiveM</code></td>
     </tr>
   </tbody>
@@ -129,17 +129,17 @@
 
 ---
 
-<!-- GitHub Analytics Side-by-Side -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<!-- GitHub Analytics Side-by-Side (#FF0000 theme) -->
+<h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruivo82&show_icons=true&title_color=e63946&text_color=c9d1d9&icon_color=e63946&bg_color=0d1117&border_color=30363d&locale=en" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruivo82&show_icons=true&title_color=ff0000&text_color=c9d1d9&icon_color=ff0000&bg_color=0d1117&border_color=30363d&locale=en" height="150" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruivo82&layout=compact&title_color=e63946&text_color=c9d1d9&icon_color=e63946&bg_color=0d1117&border_color=30363d" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruivo82&layout=compact&title_color=ff0000&text_color=c9d1d9&icon_color=ff0000&bg_color=0d1117&border_color=30363d" height="150" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <sub>© Diogo Lopes (Ruivo82) • Crafting high-performance FiveM & WebGL experiences</sub>
+  <sub>Diogo Lopes (Ruivo82) • High-performance FiveM and WebGL development</sub>
 </div>
